@@ -1,0 +1,3 @@
+#!/bin/bash
+docker exec docker-react_react-app_1 /app/node_modules/.bin/prettier ${@//$HOME\/www\/docker-react/\/app}
+echo ${@//$HOME\/www\/docker-react/\/app}

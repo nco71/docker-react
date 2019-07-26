@@ -1,0 +1,2 @@
+#!/bin/bash
+docker exec docker-react_react-app_1 /app/node_modules/.bin/eslint --config .eslintrc.js ${@/\/app/$HOME\/www\/docker-react}
